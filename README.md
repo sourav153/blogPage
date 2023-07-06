@@ -1,2 +1,2 @@
 # background_generator
-A basic front end project to create background genberator
+A basic html ,css and javascript to create background generator. issues- write javascript for this. requirements- background default color should be blue-black.
